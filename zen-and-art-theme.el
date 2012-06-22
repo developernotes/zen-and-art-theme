@@ -52,7 +52,6 @@
  '(modeline-buffer-id ((t (:background "#3F3B3B" :foreground "white"))))
  '(modeline-mousable ((t (:background "#a5baf1" :foreground "black"))))
  '(modeline-mousable-minor-mode ((t (:background "#a5baf1" :foreground "#000000"))))
- '(region ((t (:background "#3B3B3F"))))
  '(primary-selection ((t (:background "#3B3B3F"))))
  '(isearch ((t (:background "#555555"))))
  '(zmacs-region ((t (:background "#555577"))))
