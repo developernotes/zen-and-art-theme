@@ -1,7 +1,7 @@
 ;;; zen-and-art-theme.el --- zen and art color theme for GNU Emacs 24
 ;; Author: Nick Parker
 ;; Version: 1.0.0
-;; 
+;;
 ;; Ported theme to Emacs 24 color theme Nick Parker <nickp@developernotes.com>
 ;; original from https://github.com/irfn/zen-and-art
 ;;
@@ -27,11 +27,12 @@
  'zen-and-art
  '(default ((t (:background "#191717" :foreground "#d2dec4"))))
  '(cursor ((t (:foreground "#a7a7a7"))))
- '(region ((t (:background "#3b3b3f"))))
+ '(region ((t (:background "#999966"))))
  '(fringe ((t (:background "#252323"))))
  '(border-color ((t (:background "#000000"))))
  '(cursor-color ((t (:background "#A7A7A7"))))
  '(highlight-current-line-face ((t (:background "#252323"))))
+ '(hl-line ((t (:background "#252323"))))
  '(font-lock-builtin-face ((t (:foreground "#86453A"))))
  '(font-lock-comment-face ((t (:italic t :foreground "#333B40"))))
  '(font-lock-comment-delimiter-face ((t (:foreground "#4C565D"))))
@@ -51,7 +52,8 @@
  '(modeline ((t (:background "#3F3B3B" :foreground "white"))))
  '(modeline-buffer-id ((t (:background "#3F3B3B" :foreground "white"))))
  '(modeline-mousable ((t (:background "#a5baf1" :foreground "black"))))
- '(modeline-mousable-minor-mode ((t (:background "#a5baf1" :foreground "#000000"))))
+ '(modeline-mousable-minor-mode ((t (:background "#a5baf1"
+                                                 :foreground "#000000"))))
  '(primary-selection ((t (:background "#3B3B3F"))))
  '(isearch ((t (:background "#555555"))))
  '(zmacs-region ((t (:background "#555577"))))
