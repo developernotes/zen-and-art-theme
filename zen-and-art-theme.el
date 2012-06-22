@@ -1,6 +1,6 @@
 ;;; zen-and-art-theme.el --- zen and art color theme for GNU Emacs 24
 ;; Author: Nick Parker
-;; Version: 1.0.0
+;; Version: 1.0.1
 ;;
 ;; Ported theme to Emacs 24 color theme Nick Parker <nickp@developernotes.com>
 ;; original from https://github.com/irfn/zen-and-art
